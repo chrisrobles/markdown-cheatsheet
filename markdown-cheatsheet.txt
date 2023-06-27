@@ -1,16 +1,5 @@
 # Markdown
 
-- [Markdown](#markdown)
-  - [Heading {#custom-id}](#heading-custom-id)
-  - [Tables](#tables)
-    - [Table of contents](#table-of-contents)
-  - [Link Tricks](#link-tricks)
-  - [VSCode](#vscode)
-    - [Tips](#tips)
-    - [Keyboard Shortcuts](#keyboard-shortcuts)
-  - [Extensions](#extensions)
-  - [Extra Links to Look At](#extra-links-to-look-at)
-
 [Common Mistakes](https://gist.github.com/DavidAnson/006a6c2a2d9d7b21b025)
 [Github Cheat Sheet](https://www.markdownguide.org/extended-syntax)
 
