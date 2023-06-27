@@ -45,11 +45,13 @@ term
 
 ---
 
-FILES AND URLS
+FILES AND URLS:
+
 [text](file path / url 'accessibility alt text')
 
-IMAGES
-![alt text](dog.png "hover / screen reader")
+IMAGES:
+
+![alt text](dog.jpg "hover / screen reader")
 
 Sentence links to a footnote [^1]
 
