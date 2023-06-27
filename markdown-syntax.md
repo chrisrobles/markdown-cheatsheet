@@ -1,6 +1,6 @@
 --- horizontal rule
 
-## Heading {#custom-id}
+## Heading {#custom-id-for-reference}
 
 *italics* **bold** ~~strikethrough~~ <mark>highlight</mark> ==highlight==
 _italics_ __bold__ <- useful for nesting bold and italics
