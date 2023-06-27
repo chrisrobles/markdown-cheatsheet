@@ -2,9 +2,13 @@
 
 ## Heading {#custom-id-for-reference}
 
-*italics* **bold** ~~strikethrough~~ <mark>highlight</mark> ==highlight==
+*italics* **bold** ~~strikethrough~~
+
 _italics_ __bold__ <- useful for nesting bold and italics
+
 :yellow_heart:
+
+<mark>highlight</mark> ==highlight== <!--doesnt work on GitHub-->
 
 \*escaped the\*
 
