@@ -1,12 +1,12 @@
 # Markdown
 
-[Markdown Syntax Reference](https://github.com/chrisrobles/markdown-cheatsheet/blob/main/markdown-syntax.md?plain=1)
+[My Markdown Syntax Reference](https://github.com/chrisrobles/markdown-cheatsheet/blob/main/markdown-syntax.md?plain=1)
 
 <br>
 
 [Common Mistakes](https://gist.github.com/DavidAnson/006a6c2a2d9d7b21b025)
 
-[Github Cheat Sheet](https://www.markdownguide.org/extended-syntax)
+[GitHub's Extended Syntax Reference](https://www.markdownguide.org/extended-syntax)
 
 ## Link Tricks
 
