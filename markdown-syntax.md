@@ -49,7 +49,7 @@ FILES AND URLS
 [text](file path / url 'accessibility alt text')
 
 IMAGES
-![alt text](20230521195745.png "hover / screen reader")
+![alt text](dog.png "hover / screen reader")
 
 Sentence links to a footnote [^1]
 
