@@ -24,9 +24,9 @@
 
 ### [Tips](https://code.visualstudio.com/Docs/languages/markdown#_markdown-preview)
 
-- Rename markdown headers and all its links w/ vscode `Rename symbol`
-- Paste link on selected text
-- `> Create table of contents`
+- Rename markdown headers and all its links: right click header -> `Rename symbol`
+- Paste link on selected text for link auto format
+- `> Create table of contents` auto creates table of contents for file
 - Change styling of markdown preview
   
   ```json
