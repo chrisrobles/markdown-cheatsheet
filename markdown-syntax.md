@@ -10,7 +10,7 @@ _italics_ __bold__ <- useful for nesting bold and italics
 
 <mark>highlight</mark> ==highlight== <!--doesnt work on GitHub-->
 
-\*escaped the\*
+\*escaped \* symbol
 
 > Text that is a quote
 >
