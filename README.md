@@ -1,6 +1,6 @@
 # Markdown
 
-[My Markdown Syntax Reference](https://github.com/chrisrobles/markdown-cheatsheet/blob/main/markdown-syntax.md?plain=1)
+## [My Markdown Syntax Reference](https://github.com/chrisrobles/markdown-cheatsheet/blob/main/markdown-syntax.md?plain=1)
 
 <br>
 
