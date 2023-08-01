@@ -24,6 +24,12 @@
 
 ## VSCode
 
+### Change default editor
+
+1) Right click file
+2) Click `Open with...`
+3) Click `Change default editor` at the bottom of the pop up
+
 ### [Tips](https://code.visualstudio.com/Docs/languages/markdown#_markdown-preview)
 
 - Rename markdown headers and all its links: right click header -> `Rename symbol`
@@ -40,6 +46,8 @@
 
 ### Keyboard Shortcuts
 
+- Open preview `ctrl+shift+v`
+<br>
 - Go to header in file `ctrl+shift+o`
 - Bold `ctrl+b`
 - Check mark `alt+c`
