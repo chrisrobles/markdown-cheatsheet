@@ -1,10 +1,12 @@
+
 --- horizontal rule
 
 ## Heading {#custom-id-for-reference}
 
 *italics* **bold** ~~strikethrough~~
 
-_italics_ __bold__ <- useful for nesting bold and italics
+_italics_ __bold__ 
+^ useful for nesting italics and bolds
 
 :yellow_heart:
 

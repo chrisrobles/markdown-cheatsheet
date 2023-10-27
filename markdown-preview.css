@@ -2,3 +2,21 @@ mark {
     background-color: red !important;
     color: white !important;
 }
+h1 {
+    color: #FF9F01 !important;
+}
+h2 {
+    color: #FEB130;
+}
+h3 {
+    color: #FDC360;
+}
+h4 {
+    color: #FCD48F;
+}
+h5 {
+    color: #FBE6BF;
+}
+h6 {
+    color: #FAF8EE;
+}
