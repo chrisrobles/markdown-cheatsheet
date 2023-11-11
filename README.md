@@ -14,7 +14,7 @@
   - `[text](#_some-header)`
 - To another file
   - `[text](/path/to/file.md)`
-- Creating links to a header in another file
+- Header in another file
   - `[text](otherFile.md#other-header)`
 - Ref links (links saved in variable)
   [link-id]: https://www.google.com
